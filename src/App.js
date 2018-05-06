@@ -7,7 +7,7 @@ class App extends Component {
     super();
     this.state={
       nodetext:"",
-      notes:["sdfgh", "qwertyui"],
+      notes:["Akshay Barot", "Arpita Brahmbhatt"],
           }
   }
   updateNoteText(nodetext){
